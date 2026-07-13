@@ -239,7 +239,7 @@ Best-fit work:
 | Email | [hello@joenassar.info](mailto:hello@joenassar.info) |
 | Instagram | [@joe.nassar.404](https://www.instagram.com/joe.nassar.404/) |
 | WhatsApp | [+961 3 199 652](https://wa.me/9613199652) |
-| Resume | [View Resume](https://joenassar.info) |
+| Resume | [View Resume](https://server.joenassar.info/uploads/cv/joe-nassar-cv.pdf) |
 
 ---
 
